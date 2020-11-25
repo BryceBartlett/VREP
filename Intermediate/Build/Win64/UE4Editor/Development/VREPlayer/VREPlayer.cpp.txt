@@ -1,0 +1,2 @@
+D:\Training\Plugins\VREPlayer\Intermediate\Build\Win64\UE4Editor\Development\VREPlayer\Definitions.VREPlayer.h
+D:\Training\Plugins\VREPlayer\Source\VREPlayer\Public\VREPlayer.h
