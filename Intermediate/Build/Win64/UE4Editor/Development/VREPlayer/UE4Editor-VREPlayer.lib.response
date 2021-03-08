@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-VREPlayer.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Training\Intermediate\Build\Win64\TrainingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Training\Plugins\VREPlayer\Intermediate\Build\Win64\UE4Editor\Development\VREPlayer\VREPlayer.cpp.obj"
-"D:\Training\Plugins\VREPlayer\Intermediate\Build\Win64\UE4Editor\Development\VREPlayer\Default.rc2.res"
-/OUT:"D:\Training\Plugins\VREPlayer\Intermediate\Build\Win64\UE4Editor\Development\VREPlayer\UE4Editor-VREPlayer.lib"
+"D:\Unreal Projects\Sniper\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\Sniper\Plugins\VREP\Intermediate\Build\Win64\UE4Editor\Development\VREPlayer\VREPlayer.cpp.obj"
+"D:\Unreal Projects\Sniper\Plugins\VREP\Intermediate\Build\Win64\UE4Editor\Development\VREPlayer\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Sniper\Plugins\VREP\Intermediate\Build\Win64\UE4Editor\Development\VREPlayer\UE4Editor-VREPlayer.lib"
 /INCLUDE:IMPLEMENT_MODULE_VREPlayer
